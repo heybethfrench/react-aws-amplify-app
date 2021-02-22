@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "reactawsamplifyappd65cf27c": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
